@@ -1,6 +1,4 @@
-# Tʜᴇɴᴜᴋ Cʜᴀɴᴜᴋᴀ Dᴇᴠɪɴᴅᴀ
-
-
+# Hᴇʟʟᴏ👋👋👋 I'ᴍ Tʜᴇɴᴜᴋ Cʜᴀɴᴜᴋᴀ Dᴇᴠɪɴᴅᴀ
 
 <h1 align="center"><a href="https://github.com/Thenuk-Cha/Thenuk-Cha"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=hello+i'm+thenuk"></a></h1>
 
