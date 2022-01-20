@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaOfficial&theme=dark&show_icons=true)
 
 ### **Followers Count**
-[![GitHub followers](https://img.shields.io/github/followers/DevindaOfficial.svg?style=social&label=Follow&maxAge=25920)](https://github.com/DevindaOfficial?tab=followers)
+[![GitHubfollowers](https://img.shields.io/github/followers/DevindaOfficial.svg?style=social&label=Follow&maxAge=25920)](https://github.com/DevindaOfficial?tab=followers)
 ### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{DevindaOfficial}/count.svg)
 
