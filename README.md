@@ -30,3 +30,4 @@ You can use the website to generate badges: https://shields.io/
 ### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{DevindaOfficial}/count.svg)
 
+### [![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
