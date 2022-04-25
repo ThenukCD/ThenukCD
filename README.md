@@ -19,25 +19,25 @@ You can use the website to generate badges: https://shields.io/
 -  ⚡️ Fun-Fact : I'ᴍ ɴᴏᴏʙ
 
 
-<div align="center"><a href="https://github.com/DevindaOfficial/DevindaOfficial">
+<div align="center"><a href="https://github.com/ImThenuk/ImThenuk">
 
 # Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛs
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevindaOfficial&show_icons=true&theme=midnight-purple" alt="DevindaOfficial" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImThenuk&show_icons=true&theme=midnight-purple" alt="ImThenuk" /></p>
 </div><br/>
 <br/><div align="center">
-<a href="https://github.com/DevindaOfficial/DevindaOfficial"><img src="https://metrics.lecoq.io/DevindaOfficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang" alt="Activities"></a>
+<a href="https://github.com/ImThenuk/ImThenuk"><img src="https://metrics.lecoq.io/ImThenuk?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang" alt="Activities"></a>
 </div>
 
 # Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ
-  <a href="https://github.com/DevindaOfficial"><img alt="Thenuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DevindaOfficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/DevindaOfficial"><img alt="Thenuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImThenuk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 # Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaOfficial&theme=dark&show_icons=true)
 
 ### **Followers Count**
-[![GitHubfollowers](https://img.shields.io/github/followers/DevindaOfficial.svg?style=social&label=Follow&maxAge=259200)](https://github.com/DevindaOfficial?tab=followers)
+[![GitHubfollowers](https://img.shields.io/github/followers/ImThenum.svg?style=social&label=Follow&maxAge=259200)](https://github.com/DevindaOfficial?tab=followers)
 ### **Visitors Count**
-![VisitorCount](https://profile-counter.glitch.me/{DevindaOfficial}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{ImThenuk}/count.svg)
 
-### 🥰[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/DevindaOfficial/DevindaOfficial)🥰
+### 🥰[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/ImThenuk/ImThenuk)🥰
 
