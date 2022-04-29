@@ -32,10 +32,10 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/DevindaOfficial"><img alt="Thenuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImThenuk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 # Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaOfficial&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImThenuk&theme=dark&show_icons=true)
 
 ### **Followers Count**
-[![GitHubfollowers](https://img.shields.io/github/followers/ImThenum.svg?style=social&label=Follow&maxAge=259200)](https://github.com/DevindaOfficial?tab=followers)
+[![GitHubfollowers](https://img.shields.io/github/followers/ImThenuk.svg?style=social&label=Follow&maxAge=259200)](https://github.com/DevindaOfficial?tab=followers)
 ### **Visitors Count**
 ![VisitorCount](https://profile-counter.glitch.me/{ImThenuk}/count.svg)
 
